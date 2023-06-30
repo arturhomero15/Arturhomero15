@@ -1,4 +1,4 @@
-<h1> Artur Homero, 15 anos, hater do pexie-lua </h1>
+<h1> Artur Homero, 15 anos, hater do peixe-lua </h1>
 <h2>Porto Alegre, RS</h2>
 <img src="amogusvader.jfif" alt="amogus">
 <vid src="https://www.youtube.com/watch?v=eYuUAGXN0KM">
