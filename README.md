@@ -7,4 +7,4 @@
 <div class="contatos">
 <a href="https://instagram.com/a_homeroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge logo=gmail&logoColor=red" target="_blank">
-<a href="https://discord.gg/WQMFnHuU"><img src="https://img.shields.io/badge/-Discord-rgb(217, 90, 217)?style=for-the-badge&logo=discord&logoColor=rgb(181, 24, 181)" target="_blank">
+<a href="https://discord.gg/WQMFnHuU"><img src="https://img.shields.io/badge/-Discord-rgb(255, 1, 255)?style=for-the-badge&logo=discord&logoColor=rgb(99, 0, 99)" target="_blank">
