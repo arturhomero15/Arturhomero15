@@ -6,6 +6,6 @@
 <h4>Gosto de programar, desenhar, musculação, ler mangás, assitir filmes e séries</h4>
 <div class="contatos">
 <a href="https://instagram.com/a_homeroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- <a href="https://www.tiktok.com/@a_homeroo"><img src="https://img.shields.io/badge/-Tiktok-rgb(194, 0, 194)?style=for-the-badge&logo=tiktok&logoColor=rgb(96, 4, 96)" target="_blank">
+ <a href="https://www.tiktok.com/@a_homeroo"><img src="https://img.shields.io/badge/-Tiktok-rgb(40, 36, 36)?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
 <a href="https://discord.gg/WQMFnHuU"><img src="https://img.shields.io/badge/-Discord-rgb(194, 0, 194)?style=for-the-badge&logo=discord&logoColor=rgb(96, 4, 96)" target="_blank">
 <a href="https://twitter.com/AnakinVader150"><img src="https://img.shields.io/badge/-twitter-rgb(40, 36,36)?style=for-the-badge&logo=twitter&logoColor=white "target="_blank">
