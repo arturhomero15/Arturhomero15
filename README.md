@@ -4,3 +4,7 @@
 <vid src="https://www.youtube.com/watch?v=eYuUAGXN0KM">
 <h3>curso técnico em programação e inglês</h3>
 <h4>gosto de programar, desenhar, musculação, ler mangás, assitir filmes e séries</h4>
+<div class="contatos">
+<a href="https://instagram.com/a_homeroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge logo=gmail&logoColor=red" target="_blank">
+<a href=""><img src="" target="_blank">
