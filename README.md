@@ -1,4 +1,4 @@
-<h1>Porto Alegre, RS</h1>
+
 <img src="amogusvader.jfif" alt="amogus">
 <vid src="https://www.youtube.com/watch?v=eYuUAGXN0KM">
 <h3>Curso técnico em programação e inglês</h3>
