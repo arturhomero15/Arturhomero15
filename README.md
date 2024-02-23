@@ -1,6 +1,5 @@
 
-<img src="amogusvader.jfif" alt="amogus">
-<vid src="https://www.youtube.com/watch?v=eYuUAGXN0KM">
+<img src="https://br.pinterest.com/pin/3799980928689570/" alt="amogus">
 <h3>Curso técnico em programação e inglês</h3>
 <h4>Gosto de programar, desenhar, musculação, ler mangás, assitir filmes e séries</h4>
 <div class="contatos">
