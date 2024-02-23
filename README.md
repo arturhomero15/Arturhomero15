@@ -1,5 +1,5 @@
 
-<img src="https://br.pinterest.com/pin/3799980928689570/" alt="amogus">
+<img src="https://i.pinimg.com/originals/61/11/12/611112cd812323dcb086de0d126085df.png" alt="gojinho">
 <h3>Curso técnico em programação e inglês</h3>
 <h4>Gosto de programar, desenhar, musculação, ler mangás, assitir filmes e séries</h4>
 <div class="contatos">
