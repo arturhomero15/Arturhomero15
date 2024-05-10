@@ -11,7 +11,3 @@
 <li class="twitter">
     <a href="https://twitter.com/AnakinVader150"><img src="https://img.shields.io/badge/-twitter-rgb(32, 143, 180)?style=for-the-badge&logo=twitter&logoColor=white "target="_blank">
 </ul>
-
-.gojinho {
-  border-radius: 50%;
-}
